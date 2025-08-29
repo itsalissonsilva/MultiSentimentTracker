@@ -7,6 +7,24 @@ This is a Dash-based web application that lets you explore daily sentiment metri
 
 ---
 
+## Requirements
+
+Install the following packages:
+
+```
+numpy
+pandas
+plotly
+dash
+xgboost
+scikit-learn
+jupyter
+```
+
+Modify the data collection script as you wish on the jupyter notebook (e.g. custom sentiments, more dates).
+
+---
+
 ## Features
 
 -  **Line chart** showing NVDA closing prices
